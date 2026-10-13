@@ -1,0 +1,4 @@
+requests
+pypdf
+pyyaml
+# system: poppler-utils (pdftotext, pdfinfo, pdftoppm), tesseract (OCR for scanned PDFs)
