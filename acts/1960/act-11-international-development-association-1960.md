@@ -7,6 +7,7 @@ language: en
 year: "1960"
 status: unknown
 source: "https://repository.parliament.gh/handle/123456789/2562"
+file: "https://repository.parliament.gh/server/api/core/bitstreams/a7713eb9-5ac1-4fe7-88b8-b5d9c9d03fdd/content"
 retrieved: 2026-10-13
 collection: "Acts - First Republic"
 note: "Revised edition text (Laws of Ghana, revised edition); text obtained by OCR of a scanned PDF"

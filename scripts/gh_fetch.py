@@ -69,7 +69,9 @@ def convert_one(uid, it, b, dest, suffix, rev_file, used_paths):
     ident = identifier(it)
     year = year_of(it)
     cat = it["category"]
-    base = T.slug(((ident + " ") if ident else "") + re.sub(r"\(?\b(Revised( Edition)?)\b\)?", "", name), 90) + suffix
+    short = re.sub(r"\(?\b(Revised( Edition)?|Rev\.? Ed\.?)\b\)?", "", name, flags=re.I)
+    short = re.sub(r"[(\s,.]*\b(ACT|P\.?\s?N\.?\s?D\.?\s?C\.?\s?L|N\.?\s?R\.?\s?C\.?\s?D|S\.?\s?M\.?\s?C\.?\s?D|A\.?\s?F\.?\s?R\.?\s?C\.?\s?D|N\.?\s?L\.?\s?C\.?\s?D|C\.\s?I|L\.\s?I|E\.\s?I)\.?\s*\d+\s*\)?\.?", " ", short, flags=re.I)
+    base = T.slug(((ident + " ") if ident else "") + short, 90) + suffix
     rel = "%s/%s/%s.md" % (cat, year, base)
     if rel in used_paths:
         k = 2
@@ -101,6 +103,14 @@ def convert_one(uid, it, b, dest, suffix, rev_file, used_paths):
     return rel
 
 
+def _extract(path):
+    if T.pdf_ok(path):
+        tmp = os.path.join(RAW, "ocr", os.path.basename(path))
+        os.makedirs(tmp, exist_ok=True)
+        T.pdf_text(path, "eng", tmpdir=tmp)
+    return path
+
+
 def download_all(items, workers=3):
     """Parallel download (<= 4 connections, as allowed by the LawCodex politeness rules)."""
     from concurrent.futures import ThreadPoolExecutor
@@ -123,6 +133,14 @@ def main():
     if "--download-only" in sys.argv:
         download_all(items)
         return
+    if "--jobs" in sys.argv:  # pre-extract text (OCR) in parallel; results are cached next to the PDFs
+        from concurrent.futures import ProcessPoolExecutor
+        n = int(sys.argv[sys.argv.index("--jobs") + 1])
+        paths = sorted(os.path.join(RAW, "pdf", f) for f in os.listdir(os.path.join(RAW, "pdf")) if f.endswith(".pdf"))
+        with ProcessPoolExecutor(n) as ex:
+            for k, _ in enumerate(ex.map(_extract, paths)):
+                if k % 25 == 0:
+                    print("extracted", k, "/", len(paths), flush=True)
     seen_ck = {}
     used_paths = {}
     report = []

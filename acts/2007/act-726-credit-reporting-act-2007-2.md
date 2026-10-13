@@ -1,0 +1,1227 @@
+---
+title: "Credit Reporting Act, 2007 (ACT 726)"
+identifier: "Act 726"
+type: act
+jurisdiction: gh
+language: en
+date: 2007-04-05
+year: "2007"
+status: unknown
+source: "https://repository.parliament.gh/handle/123456789/1794"
+file: "https://repository.parliament.gh/server/api/core/bitstreams/87f6e5fd-34ae-4f01-bc94-dbe7cdc92d98/content"
+retrieved: 2026-10-13
+collection: "Acts - 4th Republic, 3rd and 4th Parliament"
+note: "Text as published (as enacted, not consolidated); text obtained by OCR of a scanned PDF"
+---
+
+# Credit Reporting Act, 2007 (ACT 726)
+
+Credit Reporting Act, 2007 . CREDIT REPORTING ACT, 2007 ARRANGEMENT OF SECTIONS Supervisory and Regulatory Role SECTION 1. Supervisory and regulatory role of the Bank of Ghana. So Licensing and Regulation of Credit Bureau Operations 2. Credit bureau licence. | 3. Application for licence. 4. Application and licensing fees. 5. Process for application, | 6. Licensing requirements. 7. Conditions for grant of licence. 8. Organisational and technical requirements for credit bureaus. 9. Time limit for decision on application for credit bureau licence. 10. Grant of credit burean licence. 1f. Revocation and suspension of credit bureau licence. 12. Permissible credit bureau activities. 13. Review of licensing requirements. 14. Pre-license inspections and security checks. : 15. Register of licences. 16. Non-transferability of licence. | 17, Renewal of licence. : Operation of Credit Bureau 18, Capital requirements for carrying on a credit bureau business. ; 19. Display of credit bureau licence. 20. Places of business. 21. Additional duties of a credit bureau. 22, Duties of a data provider. . 23. Duties of a credit report recipient. Data Protection Provisions : 24, Submission of information to credit bureau, 25. Financial institution to provide information without consent. 26. Financial institution to provide information with consent of borrower. 27. Offence of disclosure of confidential information. 28. Other sources of information for credit bureau. 29. Access to information. ) 30. Retention period of credit information database. LIT ~ 1463 [Issue 2]
+
+SECTION 31. Management of database security. 7 32. Dissemination and usage of credit information by credit bureau. ; 33. Payment for the provision of credit information and credit report services. 34. Credit bureau to observe privacy and secrecy principles. 35, Duties of a data provider in relation to consent obtained. 36. Right to confidential treatment. 37. Right to access and challenge of credit records and information. 38. Right of modification and cancellation of information. 39. Unfounded claim. 40. Refusal of inspection. 41. Legal action. Complaints, Redress and Penalties 42. Inquiry Service Unit. 43. Dispute resolution. 44, General offences, breaches and penalties. 45. Operation of credit bureau without licence. Investigation, Inspection and Court Orders 46. Investigation of certain matters by Bank of Ghana. 47. Inspection by Bank of Ghana. 48. Production of books. 49. Procedure on receipt of books. 50. Information from books to be published with prior consent. 51. Order by Magistrate to enter and search premises. 52. Power of Court to make certain orders. Miscellaneous Matters 53. Liquidation of credit bureau. 54. Database in event of liquidation, suspension or revocation of a licence. 55. Compliance report. 56. Technical audit. 57, Accounts and audit. 58. Bank of Ghana to submit annual report. } 59. Sale or amalgamation of business. 60. Regulations. 61. Interpretation. 62. Applicability of other legislation.
+
+## SCHEDULE
+
+[Issue 2} Ti — 1464
+
+5 CREDIT REPORTING ACT, 2007' | AN ACT to provide a framework for credit bureaus, to establish the conditions for credit reporting and to provide for related matters. Supervisory and Regulatory Role
+
+## Section 1
+
+Supervisory and regulatory role of the Bank of Ghana so, (1) The Bank of Ghana shall have overall supervisory and regulatory authority to: Pog (a) _ register, license and regulate credit bureaus, data providers and credit information recipients and their agents;
+
+(6) control and supervise activities of the credit bureaus, data providers, credit | information recipients and their agents;
+
+(c) maintain proper standards of conduct and acceptable credit reporting practices under the scheme;
+
+(d) make regulations and rules for institutions under this Act;
+
+(e) take measures to protect the interests of credit information subjects; | ( _ protect the integrity of the credit reporting system against abuses;
+
+(g) | impose penalties for contravention of this Act;
+
+(1) undertake other activities necessary or expedient to give full effect to the provisions of this Act; and (/) perform other functions specified under this Act.
+
+(2) The Bank shall advise the Minister for Finance on matters relating to credit reporting.
+
+(3) The Bank shall establish within its organisation, a Credit Reporting Department or office.
+
+(4) The Bank may authorise the Head of the Credit Reporting Department of the Bank or any other official or person to exercise a power and do an act that it considers appropriate in order to discharge its duties under this Act.
+
+(5) The Bank of Ghana may establish a Public Credit Bureau. : Licensing and Regulation of Credit Bureau Operations
+
+## Section 2
+
+Credit bureau licence
+
+(1) A person shall not establish, operate or conduct business as a credit bureau unless that person has obtained a licence for that purpose from the Bank.
+
+(2) A person shall not propose to engage in credit bureau activities unless that person has obtained a licence for that purpose from the Bank. ) |. This Act was assented to on Sth April, 2007 and notified in the Gazette on 13th April, 2007. Il — 1465 {Issue 2]
+
+(3) A person who establishes, operates or conducts the business of a credit bureau without a licence commits an offence and is liable on summary conviction,
+
+(a) _ in the case of a body corporate or other body of persons to a fine of not less j than five thousand penalty units, and
+
+(6) _ in the case of an individual to a fine of not less than five thousand penalty units or to a term of imprisonment of not less than ten years or to both.
+
+## Section 3
+
+Application for licence
+
+(1) An application for licence to operate or engage in the activities of a credit bureau shall be ;
+
+(a) made in writing to the Bank, and
+
+(b) in the prescribed form.
+
+(2) The application shall be accompanied with the appropriate administrative and processing fee. 4, Application and licensing fees The Bank may prescribe
+
+(a) an application fee to be paid for applications, and
+
+(5) an initial licence fee to be paid on registration.
+
+## Section 5
+
+Process for application
+
+(1) The Bank shall
+
+(a) acknowledge receipt of an application for a credit bureau licence,
+
+(b) within three months after the receipt of the application, inform the applicant in writing of the decision of the Bank, and
+
+(c) within three months after receipt of the application, and on satisfying itself that the applicant has
+
+(i) paid the stipulated fees, and
+
+(ii) _ satisfied all other pre-conditions, grant a licence to the applicant.
+
+(2) Where
+
+(a) an applicant fails to pay the stipulated fees,
+
+(b) there is an error in the application, or :
+
+(c) an applicant fails to satisfy any pre-condition for the grant of the licence, the Bank shall, within three months after receiving the application, notify the applicant in writing to rectify the situation within thirty days after the receipt of the notification.
+
+(3) Where the applicant fails to rectify the situation, the Bank shall not process the application.
+
+(4) Where an application for a licence is refused, the Bank shall state the reasons for the refusal in the notice of refusal to the applicant. I [Issue 2] I — 1466 ;
+
+LR
+
+## Section 6
+
+Licensing requirements
+
+(1) The Bank shall not grant a licence to a person to carry on the business of a credit bureau unless the person
+
+(a) is incorporated as a company under the Companies Code, 1963 (Act 179) | solely to carry out credit bureau activities,
+
+(b) has human, financial and operational resources to enable it to function efficiently and perform its functions effectively in accordance with this Act,
+
+(c) presents a business plan that is satisfactory to the Bank, — (d) presents plans to adopt mechanisms to gather input, integrate, update, vali- Li date and provide security for data to the Bank,
+
+(e) presents a credible plan to develop and adopt procedures to ensure that
+
+(i) questions, concerns and complaints of credit information subjects, or
+
+(ii) data providers are treated equitably and consistently in a timely and efficient manner.
+
+(2) The Bank shall not grant a licence to carry on the business of a credit bureau ifa
+
+person who has ten percent or more of the voting rights of the applicant is
+
+(a) a financial institution as defined in this Act,
+
+(b) a debt collection agency, or
+
+(c) | aperson who conducts disqualified business.
+
+(3) The Bank of Ghana may by regulation declare a business activity disqualified if the business activity is inconsistent with the function of operating an independent credit bureau.
+
+## Section 7
+
+Conditions for grant of licence |
+
+(1) A licence granted by the Bank is subject to conditions specified in the licence.
+
+(2) Without limiting the effect of subsection (1), an applicant for a credit bureau licence shall provide the following documents and information:
+
+(a) a copy of the applicant’s certificate of incorporation, regulations and certificate to commence business;
+
+(b) documents that support the value of the applicant’s capital base;
+
+(c) a feasibility study by the applicant company that shows the business plan, | organisational structure and internal monitoring procedures of the company and information on;
+
+(i) mission statement and goals,
+
+(ii) market analysis,
+
+(iii) ownership structure,
+
+(iv) governance structure,
+
+(v) management structure, ) (vi) a description of projected investments, pe Ill — 1467 [Issue 2]
+
+(vii) financial statements on a pro-forma basis for a minimum of three years,
+
+(viii) analysis on profitability, and :
+
+(ix) a business continuity plan; {d) details of the applicant’s shareholders, directors and other officers; e a description of the applicant’s premises and suitability for credit bureau lescrip pp Pp y activities; :
+
+(f/) the particulars of the proposed key management personnel concerned with the management of the credit bureau business including qualifications; information necessary for assessing the trustworthiness of the applicant; \
+
+y g pp : and
+
+(h) the overview of operations including a description of systems, design of the data collection and dissemination and management processes including;
+
+(i) _ the development schedule of the software required for operation,
+
+(ii) characteristics of products and services to be provided to users,
+
+(ili) policy on service provision,
+
+(iv) proposed security and control measures to prevent improper access to information,
+
+(v) proposed security and control measures to prevent improper access to management of information,
+
+(vi) operational manuals designed to ensure accuracy of information contained in the database and its update, and {vii) the proposed fee and cost structure of products.
+
+## Section 8
+
+Organisational and technical requirements for credit bureaus
+
+(1) A licensed credit bureau shall ensure that
+
+(a) its premises are safe;
+
+(5) its premises can operate its data systems, credit information database and other documents;
+
+(c) it employs the use of certified hardware and software when setting up and using the information systems that house the credit information database;
+
+(d) certified means of protection are used for the systems;
+
+{e) information supplied to the credit bureau by financial institutions is main- : tained and stored on a private domain name in accordance with the provi- / sions of this Act;
+
+() it prepares and maintains operational manuals that ensure accuracy of information contained in its database including manuals for;
+
+(i) queries, Gi) loading of data,
+
+(ii) source quality control,
+
+(iv) maintenance, ) [Issue 2] Ill — 1468
+
+(v) security, and . (vi) procedure for handling complaints, |
+
+(g) its database is updated regularly;
+
+(A) provisions are included in agreements between credit bureau and reporting i financial institutions and between credit bureau and credit report recipients which set out the obligation on parties to jointly implement organisational | and technical measures for the protection of software applied in the design of a credit information database and the means of their protection;
+
+(i) it implements strict quality control procedures; |
+
+_ 7) it adopts measures and systems that records requests or queries for the oe credit report of a person;
+
+(k) it adopts measures and systems to detect the misuse of data held in its database;
+
+() it recruits and maintains personnel sufficiently trained in customer relations and credit reporting and can handle queries of recipients of information and records made available under section 37;
+
+(m) _ it utilises information collected solely for the intended purpose;
+
+(#) it provides information that reflects the existing situation of the credit information subject;
+
+(0) it provides access to the Bank to information managed by the credit bureau through access to its system or in the manner stipulated by the Bank, for | the conduct of investigations;
+
+(p) it ensures compliance with this Act and regulations made under the Act; and |
+
+(q) it observes a duty of confidentiality as regards information divulged to them by financial institutions.
+
+(2) The duties of a credit bureau as regards
+
+(a) data management, and |
+
+(6) data processing,
+
+may be outsourced to another person but the credit bureau
+
+(i) shall notify the Bank in writing of the outsourcing arrangement, and
+
+(ii) remain Hable for the discharge of its duties and the observance of the rights : of a credit report recipient under this Act and other law.
+
+## Section 9
+
+Time limit for decision on application for credit bureau licence The Bank shall communicate its decision on an application for a credit bureau licence : within three months from the date of receipt of the application.
+
+## Section 10
+
+Grant of credit bureau licence
+
+(1) Where an applicant } (a) pays the stipulated fees, and Il — 1469 {Issue 2]
+
+(b) _ satisfies the pre-conditions for the grant of a licence, the Bank shall grant the licence within three months after receiving the application. .
+
+(2) A licence granted by the Bank is subject to the conditions specified in the licence.
+
+(3) The Bank may by written notice to a credit bureau vary a condition or restriction in relation to a licence.
+
+## Section 11
+
+Revocation and suspension of credit bureau licence
+
+(1) The Bank shall revoke a licence if the Bank is satisfied that the credit bureau
+
+(a) has repeatedly failed to comply with the terms and conditions of the li- . cence,
+
+(6) has contravened the provisions of this Act,
+
+(c) has contravened the Rules made under this Act,
+
+(d) has ceased to satisfy the requirements for licensing and the renewal of a licence, and
+
+(e) _ has ceased to satisfy the requirements on minimum capital for the establishment of a credit bureau.
+
+(2) The Bank may revoke or suspend a credit bureau licence for a specified period if the licensee
+
+(a) has breached duties imposed under this Act,
+
+(b) has breached a code of conduct for credit bureaus issued by or with the ; permission of the Bank,
+
+(c) has breached the provisions of a law which deals with
+
+(i) data protection,
+
+(ii) computer misuse, or
+
+(iii) electronic transactions, and (d@) has failed to commence business within six months immediately after the date of issue of the licence.
+
+(3) Where the Bank suspends or revokes the licence of a credit bureau, the Bank shall give notice in writing of the decision to the credit bureau and shall specify in the notice, the defect, omission or breach which has occasioned the suspension and request the credit bureau to remedy the defect, omission or breach within fifteen working days after the date of the notice.
+
+(4) Where the Bank suspends or revokes the licence of a credit bureau, the Bank shall 7 give notice of the decision to the credit bureau affected by the decision within three working days after the decision to suspend or revoke the licence.
+
+(5) If the defect, omission or breach is remedied within the time specified, the Bank shall by notice in writing to that person restore the licence, otherwise the licence shall be considered to have been revoked on the expiration of the time specified.
+
+(6) The suspension or revocation of a licence is effective from the day that the credit ; bureau is informed of the decision of the Bank. i [Issue 2] Ill — 1470
+
+ACT 726 : Credit Reporting Act, 2007 _ eel A ERY, i
+
+(7) Where the Bank suspends or revokes a credit bureau licence “ (a) the Bank shall notify the general public within seven days after the suspena sion or revocation of the licence in the Gazette and a newspaper of wide national circulation; and
+
+(b) the credit bureau affected by the decision of the Bank to suspend or revoke the licence shall within seven days after receipt of notice of the decision, issue a written notice to each subscriber of its services informing them
+
+(i) _ of the action of the Bank, and
+
+(ii) request the subscribers to discontinue further reporting to the credit bureau. SOF (8) A person who is dissatisfied with the decision of the Bank to revoke or suspend a credit bureau licence may apply to the High Court for a review decision.
+
+## Section 12
+
+Permissible credit bureau activities
+
+(1) A credit bureau may engage in the following activities; |
+
+(a) gather and maintain data for the formation of credit histories,
+
+(b) process credit related data; and
+
+(c) deliver credit reports based partly or fully on information not in the public domain.
+
+(2) A credit bureau shall give prior notice to the Bank of Ghana before performing the following functions:
+
+(a) assessment of the credit worthiness of credit history subjects using a methodology developed or acquired by the credit bureau;
+
+(b) provide consultancy services in informational support;
+
+(c) _ sell literature and other informational material related to credit bureau activities; and
+
+(d) carry out market research and statistical research. |
+
+(3) A credit bureau shall not engage in the activities other than those activities specified in this section.
+
+(4) A person who operates a credit bureau which engages in business activities not specified under this section commits an offence and is liable on summary conviction to a | fine of not more than five thousand penalty units or to a term of imprisonment of not more than ten years or to both.
+
+## Section 13
+
+Review of licensing requirements The Bank may vary the licensing requirements by notice after consultation with existing credit bureaus.
+
+## Section 14
+
+Pre-license inspections and security checks
+
+(1) The Bank shal! carry out on-site inspection of the applicant’s premises to determine the adequacy of the applicant’s security system including : (a) suitability of the premises for credit bureau operations, HI ~ 1471 {Issue 2]
+
+(6) separation of credit bureau operations from other business conducted by the applicant, and
+
+(c) adequacy of the applicant’s management information system, administrative and operational processes, internal control systems and information security systems.
+
+(2) The Bank shall carry out security checks with the Police Service and other relevant security agencies to ascertain that a person who is proposed as an executive director or other employee of the applicant does not have previous criminal record relating to
+
+(a) computer fraud,
+
+(6) misuse of information, and ‘
+
+(c) other offences relating to security of information heid by another person.
+
+## Section 15
+
+Register of licences The Bank shall keep and maintain a register of licences which shall contain details of licences granted.
+
+## Section 16
+
+Non-transferability of licence
+
+(1) A person shall not transfer a licence granted by the Bank of Ghana to another person.
+
+(2) A person who transfers a licence granted by the Bank of Ghana commits an offence and is liable on summary conviction to a fine of not less than four thousand penalty units or a term of imprisonment of not less than five years or both.
+
+## Section 17
+
+Renewal of licence A licence to operate a credit bureau is renewable annually. Operation of Credit Bureau 18, Capital requirements for carrying on a credit bureau business
+
+(1) A credit bureau is required to have a minimum paid-up capital of five billion cedis,
+
+(2) The minimum paid-up capital shall be invested in assets to be determined by the Bank from time to time.
+
+(3) The Bank may review the minimum paid-up capital at periodic intervals where : necessary.
+
+## Section 19
+
+Display of credit bureau licence (1} A credit bureau operator shall display the credit bureau licence in a conspicuous place on its premises for the information of the public.
+
+(2) A credit bureau which fails to display to the Bank the credit bureau licence shall pay a pecuniary penalty of one thousand penalty units to the Bank. } {Issue 2] Ill ~ 1472
+
+## Section 20
+
+Places of business ‘, (1) A credit bureau shall notify the Bank of the location of its principal place of busi- ; ness at the time of application for a credit bureau licence.
+
+(2) A credit bureau may open branch and agency offices for the conduct of its authorised business with the prior approval of the Bank.
+
+(3) A credit bureau shall obtain the approval of the Bank prior to the
+
+(a) relocation of its principal place of business,
+
+(6) relocation of branch offices, — (c) agencies, and |
+
+(d) closing its principal place of business, branch, office, or agency.
+
+## Section 21
+
+Duties of a credit bureau
+
+(1) A licensed credit bureau shall:
+
+(4) quote its licence number in an advertisement or information document in which it offers its services;
+
+(4) accept the filing of credit information from a data provider on payment of the bureau’s filing fee, if any;
+
+{c) provide credit reports on request in accordance with the provisions of this Act;
+
+(d) prevent information held by the credit bureau from being disclosed, with the exception of those situations stipulated under this Act;
+
+(e) maintain adequate systems of internal control; |
+
+) keep and submit records of the activities of the credit bureau in accordance with this Act and the laws of Ghana;
+
+{g) request that a data provider corrects and supplements the submitted information that requires reprocessing or specification if there are grounds for this;
+
+(#) — submit to technical audits that the Bank may require from time to time;
+
+(i) submit records and reports to the Bank as the Bank may require;
+
+(jf) abide by |
+
+. (i) regulations and rules made under this Act, é (ii) directions given by the Bank, and
+
+(iii) other duties imposed by a code of conduct issued by or with the permission of the Bank;
+
+(k) accept without charge the filing of credit information by a credit information subject to correct or challenge information held by that credit bureau ; concerning that credit information subject;
+
+) take steps to verify the accuracy of credit information reported to it;
+
+E (m) retain credit information reported to the bureau for the prescribed period; Ill — 1473 {Issue 2]
+
+(7) maintain the database records of consumer credit information to satisfy the standards prescribed by the Bank; .
+
+(0) comply with standards and code of conduct issued by or with the permis- ; sion of the Bank for licensed credit bureaus; and
+
+(p) not prejudice the assessment of a person’s creditworthiness merely on the basis that the credit bureau does not have credit information concerning that person.
+
+## Section 22
+
+Duties of a data provider A data provider shall discharge the following duties:
+
+(a) submit to a credit bureau confirmation that it has received the consent of the subject of the credit information for
+
+(i) submitting information, and
+
+(ii) receiving credit report on the credit information subject;
+
+(6) notify the credit bureau of changes to information the data provider becomes aware of as regards information submitted on a person.
+
+## Section 23
+
+Duties of a credit report recipient A credit report recipient shall discharge the following duties:
+
+(a) keep the credit report confidential and shall not disclose the information contained to third parties;
+
+(b) use the information contained in the credit report only for the purposes stated in this Act;
+
+(c) disclose the contents of a credit report to a subject of credit information or provide the subject of credit information with a copy of the credit report on request in accordance with this Act;
+
+(d) pay the credit bureau on the issuance of the credit report; and {e) fulfil other obligations in accordance with any other law.
+
+## Section 24
+
+Submission of information to credit bureaus
+
+(1) A data provider which is a financial institution shall submit information to a licensed credit bureau that relates to a person who enters into a credit agreement with the financial institution.
+
+(2) The information to be provided under subsection (1) includes: *
+
+(a) the amount of the joan or other facility granted to the person from the financial! institution;
+
+(6) the sum of the outstanding loans including contingent liabilities extended to the person by the financial! institution;
+
+(c) the date on which the loan was made and the dates for payment of the principal and the interest as agreed;
+
+(d) information on the composition and the types of collateral which secured the debt obligation; : [issue 2} III — 1474
+
+Om SOND ONEO
+
+(e) in the case of a financial institution which sells goods or offers services on a credit basis or with delayed payment terms; j (i) the amount of the goods and services provided on a credit basis together with contingent and possible obligations, :
+
+(ii) the dates the services were provided,
+
+(iii) the agreed schedule of payment for the services, and
+
+(iv) information on the composition and the types of collateral that se- | cured the payment obligations; ) where the borrower is a natural person including an entrepreneur, the fol- ON lowing information;
+
+(i) full name,
+
+(ii) gender, i
+
+(iii) date of birth,
+
+(iv) place of residence,
+
+(v) information contained in the borrower’s identification documents including passport, voter’s identity card and national identity,
+
+(vi) the taxpayer registration number of the borrower, and
+
+(vii) the social security number of the borrower, and
+
+(gz) where the borrower is an artificial person, the following information is to be submitted;
+
+(i) the name of the entity,
+
+(ii) its organisational and legal form, (iii} its location,
+
+(iv) the number and date of registration as a legal entity,
+
+(v) _ the taxpayer identification number,
+
+(vi) the full names of its Chief Executive Officer, directors and shareholders, and
+
+(vii) the taxpayer identification numbers of the Chief Executive Officer, directors and shareholders.
+
+(3) (a) A financial institution shall provide this information to licensed bureaus within seventy-two hours after entering into a credit agreement or facility.
+
+i (6) A financial institution shall on a monthly basis provide information to licensed credit bureaus on the status of performance of the customer’s obligations under the credit agreement or facility. :
+
+(4) (a) A financial institution shall not require a borrower to provide information on the race, ethnic origin, political, religious or union affiliation or membership of a bor-
+
+rower.
+
+(b) A financial institution which provides information on race, ethnic origin, po-
+
+litical, religious or union affiliation of a borrower commits a breach and is liable to a pe- :
+
+b cuniary penalty of not more than two thousand five hundred penalty units. en OE
+
+HI — 1475 [issue 2]
+
+## Section 25
+
+Financial institution to provide information without prior consent A data provider which is a financial institution shall report to the licensed credit bu- . reau the following information without first obtaining consent from the customer:
+
+(a) details of the loans which are ninety days past the due dates for repayment where,
+
+(i) the amount owed is not in dispute,
+
+(ii) the customer has not made satisfactory proposals for repayment of the debt following formal demand, and
+
+(iii) the customer has been given at least twenty-eight days notice of the ; intention to disclose that information to the Credit Reference Bureau;
+
+(6) _ information on a person involved in financial malpractices; and
+
+(c) information on a person involved in the issuance of dishonoured cheques owing to lack of funds or fraud.
+
+## Section 26
+
+Financial institution to provide information with consent of borrower
+
+(1) A data provider which is a financial institution shall not report any of the information specified under section 24 to a licensed credit bureau unless the prior consent in writing of the borrower has been obtained by the financial institution for
+
+(a) the submission of the information to the credit bureau, and
+
+(5) __ the storage, processing and dissemination of the information by the credit bureau in accordance with this Act.
+
+(2) The financial institution shall request the consent of the customer in
+
+(a) account opening application forms,
+
+(6) loan application forms, and
+
+(c) loan agreements.
+
+(3) The Bank may by notice direct financial institutions and credit bureaus to obtain the consent of a borrower and store the consent in electronic form.
+
+(4) A financial institution shall conduct a search with respect to the applicant’s credit record on the database of one or more credit bureaus licensed under this Act before it makes a decision to grant or refuse an application for credit or other facility.
+
+(5) An obligation to deny a credit application because of a customer’s refusal to pro- _ vide consent shall not be placed on a financial institution. :
+
+(6) Except as provided in section 25, a financial institution shall not divulge information to a credit bureau without the customer’s consent in writing which shall be in the form specified in the Schedule.
+
+(7) A financial institution shall not induce a customer or prospective customer to provide consent under this section.
+
+(8) Where a financial institution obtains the consent of a customer the consent shall continue until revoked by the customer. ; [Issue 2] I - 1476
+
+ACT 726 | Credit Reporting Act, 2007 |
+
+(9) A financial institution which reports information to a credit bureau does not violate the provisions of the Banking Act, 2004 (Act 673) and any other laws relating to —, (a) secrecy of banking,
+
+(b) _ other financial, and
+
+(c) non-financial services. |
+
+(10) A financial institution may enter into agreements for Data Submission and Credit Report Delivery with licensed credit bureaus to determine
+
+(a) the modalities for the submission of information by the financial institu- DS (b) the delivery of credit reports by a credit bureau to a financial institution, |
+
+(c) _ the type of information to be provided, and
+
+(d) the manner and form in which the information is submitted.
+
+(11) In this section
+
+(a) “loan” includes borrowing, leasing, factoring and forfeiting, and |
+
+(6) “person” includes a natural person and an artificial person but excludes the Government of Ghana.
+
+## Section 27
+
+Offence of disclosure of confidential information A person who intentionally
+
+(a) discloses confidential information in contravention of sections 24, 25 and
+
+(b) fails to report information to a credit bureau in contravention of sections 24, 25 and 26, commits an offence and is liable on summary conviction to a fine of one thousand penalty units and a term of imprisonment of not less than five years or to both.
+
+## Section 28
+
+Other sources of information for credit bureaus |
+
+(1) A credit bureau may receive, compile and report information as regards a person that is ordinarily available to the public.
+
+(2) The information is what can be obtained from the following public sources:
+
+(a) | Government agencies that register business and maintain a register of busi- ‘ nesses in operation; : (6) Government agencies that register property rights and transactions which include;
+
+(i) registries which maintain information on interests in immovable property,
+
+(ii) creation of charges and other encumbrances on assets, and
+
+(iii) _ the registration of discharges of the encumbrances,
+
+(c) reports on investigations and convictions on economic crimes held by the } Police Service; ne HI — 1477 {Issue 2]
+
+en en ee
+
+(d) registries of courts which maintain,
+
+(i) data on judgement debts, .
+
+(ii) records of insolvency proceedings, Gii) orders for the winding-up of business, and
+
+(iv) criminal convictions;
+
+(e) rulings of tribunals or administrative bodies as regards the credit status of a person.
+
+(3) The public source may enter into contracts with licensed credit bureaus to determine ~ {a) the modalities for the provision of information by the source, and ‘
+
+(6) the manner and form in which the information is submitted. ;
+
+(4) A public source which provides information to a credit bureau shall include the following information:
+
+(a) _ for individuals;
+
+(i) the name, Gi) the gender,
+
+(iii) date of birth,
+
+(iv) _ place of residence,
+
+(v) relevant information obtained from the identification documents,
+
+(vi) _ the taxpayer registration number, and
+
+(vii) information as regards the registration of encumbrances that affect property and other rights; or
+
+(b) _ for legal entities;
+
+(i) the name,
+
+(ii) _ the organisational and legal form,
+
+(ii) the location,
+
+(iii) the number and date of registration of legal entity,
+
+(iv) _ the taxpayer registration number,
+
+(v) details of the bank account,
+
+(vi) information on registration of property rights, and ;
+
+(vii) information on encumbrances of property. . 29, Access to information The right of a credit bureau to access information from public sources shall be in addition to the right of access to information granted under any law.
+
+## Section 30
+
+Retention period of credit information database
+
+(1) A credit bureau shail maintain a record of the history of the credit information. } [Issue 2] Ill — 1478
+
+ACT 726 |
+
+(2) A credit bureau shall maintain information in its database for | . (a) a maximum period of six years from the occurrence of the basis for keepj ing the information on record, or
+
+(b) a period of ten years in the case of a criminal conviction.
+
+(3) A credit bureau shall establish and implement procedures to update information registered on its database on an ongoing basis.
+
+(4) A credit bureau shall update its database |
+
+(a) as often as necessary in accordance with the nature of the information oon, stored, and DF (b) whenever information is provided by the data provider.
+
+## Section 31
+
+Management of database security
+
+(1) A credit bureau shall adopt adequate security and control measures to avoid mis- | management of information in accordance with this Act and other data protection law.
+
+(2) Where a person other than the sender or the intended recipient of transmitted message or data
+
+(a) _ steals,
+
+(b) intercepts,
+
+(c) interferes with,
+
+(d) alters or modifies,
+
+(e) diverts,
+
+f) unlawfully discloses, |
+
+(g) decodes,
+
+(h) facilitates, or | attempts to decode a transmitted message or data, that person breaches the principles of privacy and secrecy of communication established under section 34.
+
+(3) A credit bureau, a credit information recipient and a data provider shall employ international best practices in the industry to promote
+
+(a) privacy,
+
+(b) secrecy, : (c) security of communications, and
+
+(d) personal and account data carried or transmitted by the credit bureau, data provider or credit information recipient or through their communications system,
+
+## Section 32
+
+Dissemination and usage of credit information by credit bureau
+
+(1) A person shall not obtain credit information from a credit bureau unless that person } (a) is acredit report recipient as defined under this Act; a [il - 1479 [Issue 2]
+
+eee
+
+(6) _ has been registered with the credit bureau to obtain information;
+
+(c) has produced confirmation that that person has obtained the consent in N, writing of the credit information subject to receive the credit report from ; the credit bureau; and (@) _ has satisfied the credit bureau that it requires the credit information to
+
+(i) evaluate credit risks in the grant, monitoring or extension of loans or other credits,
+
+(ii) evaluate risks where the terms of a credit agreement are changed,
+
+(iii) evaluate risks related to other transactions with deferred payments,
+
+(iv) confirm the accuracy of information contained in a credit report, ——
+
+(v) underwrite insurance, or |
+
+(vi) analyse insurance claims,
+
+(2) A credit bureau shall keep a record of requests for the issue of credit reports and a record of the credit reports provided.
+
+(3) A credit bureau shall refuse to provide a credit report if the request for its provision contravenes a provision of this Act or any other law.
+
+(4) The Bank may request for credit information from a credit bureau to investigate matters arising under this Act.
+
+## Section 33
+
+Payment for the provision of credit information and credit report services
+
+(1) A credit bureau may charge fees for its services or other services authorised under this Act, after consultation with a credit information recipient, :
+
+(2) A credit bureau shall publish the fees prescribed in subsection (1) in a media of nationwide coverage. 34, Credit bureau to observe privacy and secrecy principles
+
+(1) A credit bureau, data provider or credit information recipient shall observe the following principles:
+
+(a) _ the equality of credit information subjects;
+
+(6) the confidentiality of information; {c) _ non-interference in the private life of citizens; (d@) respect for the rights, liberties and lawful interests of persons and legal i entities;
+
+(e) accuracy and transparency of information; and 2) privacy and secrecy of communication.
+
+(2) The Bank may issue statements of principle with respect to the conduct of persons licensed under this Act.
+
+(3) A person who fails to comply with the statement of principle breaches the provisions of this Act. } Sena [Issue 2] Ill —- 1480
+
+ACT 726 |
+
+RR !
+
+## Section 35
+
+Duties of a data provider in relation to consent obtained
+
+a A data provider shall
+
+(a) keep records of consent obtained from the credit history of a subject, and
+
+(b) keep the consent in electronic or physical form for not less than ten years :
+
+from the date the consent was provided.
+
+## Section 36
+
+Right to confidential treatment
+
+A person who receives, compiles, retains or reports confidential information that per-
+
+. tains to a consumer or prospective consumer shall protect the confidentiality of the in- 4 formation and shall . (a) _ use the information only for a purpose permitted in terms of this Act, and
+
+(b) disclose information in good faith and in accordance with the provisions of this Act.
+
+## Section 37
+
+Right to access and challenge of credit records and information
+
+(1) A person has a right to
+
+(a) receive a copy of information proposed to be provided by a data provider to a credit bureau on the person on request,
+
+(b) physically call at the offices of a credit bureau during normal business hours and inspect a file or information concerning that person held by the | credit bureau without charge
+
+(i) once within a period of twelve months,
+
+(ii) if so ordered by a Court or tribunal, and
+
+(iii) once within a reasonable period after the person has challenged in- | formation given to verify whether that information has been corrected, |
+
+(c) inspect a file containing information concerning the person held by the credit bureau at another time, on payment of a nominal fee.
+
+(2) A person has a right to
+
+(a) challenge the accuracy of information held by a credit bureau on a person, and
+
+(6) require the credit bureau to investigate the accuracy of the challenged in-
+
+: formation, without a charge to the consumer.
+
+## Section 38
+
+Right of modification and cancellation of information
+
+(1) Where a person who is the subject of information challenges the accuracy of information held by a credit bureau as illegal, inaccurate, erroneous, or outdated the person may
+
+(a) request a review of the information heid by the credit bureau, and
+
+(b) support the request with evidence relevant to the establishment of the accu- : ; racy of the information in question, a tt If — 1481 [Issue 2]
+
+ee
+
+(2) Where the error is attributable to information sources, a credit bureau shall notify the person to direct the claim to the data provider from where the information originated. .
+
+(3) Where a person challenges the accuracy of information the credit bureau or the ; data provider shall take reasonable steps to seek evidence to support the challenged information and within the prescribed time after the filing of the challenge
+
+(a) provide a copy of any credible evidence to the person who filed the challenge, or
+
+(6) remove the information and records of the information from the files if the credit bureau is unable to find credible evidence in support of the information, and the credit bureau shall, at its expense notify any person who may . have used the flawed information of the error and the rectification of the error.
+
+(4) (a) Where a person who challenges information held by a data provider or credit bureau, receives a copy of the credible evidence, the person may apply to the Bank in the prescribed manner and form within twenty working days after receiving a copy of the evidence,
+
+(b) The Bank shall investigate the disputed information as a complaint under section 43 of this Act.
+
+(5) (a) A data provider or credit bureau may apply to the Bank to make an order limiting the obligation of the applicant to a consumer.
+
+(6) The Bank may grant the order if satisfied that
+
+(i) the request or requirement of the consumer is frivolous, unfounded or wholly unreasonable, or
+
+(ii) the history and pattern of making requests or requirements is frivolous or vexatious.
+
+## Section 39
+
+Unfounded claim Where a person makes an unfounded claim, a credit bureau may charge the person for the cost of verifying the credibility of the claim.
+
+## Section 40
+
+Refusal of inspection A credit bureau shall not refuse to permit a person to exercise the right to inspect a credit bureau file as specified in section 37 (1) (c).
+
+## Section 41
+
+Legal action i A person who suffers harm arising from the supply of inaccurate or incomplete information about the person is entitled to commence an action in Court :
+
+(a) against the data provider or credit bureau,
+
+(6) — showing that the data provider negligently provided the information which has caused harm to the person, and
+
+(c) to seek an injunction from the Court to
+
+(i) _ restrain the publication of the inaccurate information, or } SR [Issue 2] II ~ 1482
+
+Credit Reporting Act, 2007 i a
+
+(ii) expunge the inaccurate or adverse information from the database ofa | : credit bureau. | Complaints, Redress and Penalties
+
+## Section 42
+
+Inquiry Service Unit
+
+(1) A credit bureau shall have an Inquiry Service Unit.
+
+(2) An Inquiry Service Unit shall attend to persons : (a) affected by information contained in the database of the credit bureau, and i (6) who challenge the information on the grounds that it is illegal, inaccurate, | erroneous or outdated.
+
+## Section 43
+
+Dispute resolution
+
+(1) A complaint shall be submitted in writing to the Bank before redress is sought in | a Court for the settlement of grievance under this Act.
+
+(2) The Bank shall investigate the matter and determine it in accordance with this section.
+
+(3) Where the Bank receives a complaint or notice of a dispute, the Bank shall
+
+(a) cause the matter to be investigated, and
+
+(b) _ settle the dispute or complaint to the satisfaction of the parties concerned, unless the Bank considers the matter to be frivolous or vexatious.
+
+(4) A person dissatisfied with a decision of the Bank may appeal to the High Court. 44, General offences, breaches and penalties .
+
+(1) The Bank may impose sanctions on persons who contravene the provisions, regulations and rules made under this Act.
+
+(2) The Bank may impose one or more of the following sanctions:
+
+(a) pecuniary penalties as are prescribed by Regulations under this Act; |
+
+(b) suspension of a credit bureau licence; or
+
+(c) revocation of a credit bureau licence. : (3) A credit bureau which . (a) delays in providing information and documents to the Bank,
+
+(b) alters, modifies or deletes records from its database in contravention of this Act, or
+
+(c) fails to adopt security and control measures that are necessary to prevent the wrongful use and management of information, commits a breach and is liable to pay a pecuniary penalty of five thousand penalty units : to the Bank and in the case of a continuing breach to an additional fine of not more than : one hundred penalty units for each day on which the breach continues. a I] — 1483 [Issue 2]
+
+Sn e
+
+## Section 45
+
+Operation of credit bureau without licence
+
+(1) A person who operates as a credit bureau when the licence to operate as a credit . bureau has been revoked or suspended, commits an offence and is liable on summary ; conviction to a fine of not less than five thousand penalty units or a term of imprisonment of not less than ten years or both.
+
+(2) A person who
+
+(a) discloses confidential information as provided under section 27, or
+
+(6) fails to disclose confidential information as provided under section 27 of this Act, commits an offence and is liable on summary conviction to a fine of not less than four : thousand penalty units or a term of imprisonment of not less than eight years or both,
+
+(3) A person who discloses confidential information concerning the affairs of a person or firm obtained in the course of the performance of functions under this Act, commits an offence and is liable on summary conviction to a fine of not less than four thousand penalty units or a term of imprisonment of not less than eight years or both.
+
+(4) A person who hinders, opposes, obstructs or unduly influences a person in the exercise of a power, performance of a delegated function, conferred or imposed duty under this Act, commits an offence and is liable on summary conviction to a fine of not less than two thousand penalty units or a term of imprisonment of not less than four years or both.
+
+(5) Where a person other than the sender or the intended recipient of a transmitted message or data, steals, intercepts, interferes with, alters or modifies, diverts, unlawfully discloses, decodes or attempts to decode a transmitted message or data, or facilitates any act, that person commits an offence and is liable on summary conviction to a fine of not less than four thousand penalty units or a term of imprisonment of not less than eight years or both.
+
+(6) A person who fails to comply with any other provision of this Act commits an of- | fence and is liable on summary conviction to a fine of not less than two thousand penalty units or a term of imprisonment of not less than four years or both.
+
+(7) Where an offence is committed under this Act by a body corporate, each director, executive officer, secretary or employee of the body corporate which was by act or omission, directly or indirectly concerned in or is a party to the commission of the offence shall also be guilty of the offence.
+
+Investigation, Inspection and Court Orders ;
+
+## Section 46
+
+Investigation of certain matters by the Bank of Ghana Where the Bank reasonably
+
+(a) suspects that a person has committed an offence under this Act, or
+
+(6) has been found guilty of fraud or dishonesty in relation to credit information,
+
+the Bank may conduct investigations into the matter, : a [Issue 2] II — 1484
+
+ACT 726 | EE
+
+## Section 47
+
+Inspection by Bank of Ghana
+
+(1) The Bank may inspect the books, accounts, documents, transactions and other re- ; cords of a data provider, credit bureau, or a credit information recipient.
+
+(2) The Bank may appoint a qualified person.to exercise this power.
+
+(3) (a) To carry out an inspection under this section,
+
+(i) a data provider,
+
+(ii) credit bureau, or | N (iii) a credit information recipient, bo shall afford the Bank access to its books, accounts, documents and the information required to conduct the inspection.
+
+(b) A data provider, credit bureau, or a credit information recipient shall produce books, accounts, documents and the information required to conduct the inspection.
+
+(4) A person appointed by the Bank shall have the power to make copies of, or take possession of the books, accounts and other documents of a data provider, credit bureau, or a credit information recipient.
+
+(5) A person who fails without reasonable excuse, to produce a book, account, document, information, or facilities commits an offence and is liable on summary conviction to a fine of not more than two thousand penalty units or a term of imprisonment of not more than four years or both.
+
+## Section 48
+
+Production of books
+
+(1) The Bank may by notice in writing give directions to a credit bureau, data provider or a credit information recipient to produce books or records to a person authorised | by the Bank as specified.
+
+(2) The Bank may authorise a person in writing to exercise the power to request the production of books conferred on it.
+
+(3) Where the books required to be produced to the Bank or the person authorised by the Bank are subject to a lien, the production of the books shail not prejudice the lien.
+
+(4) An action shall not lie against a person who complies with a direction or require- | ment to produce books under this section. h (5) Where the power is conferred to make a requirement of a person, it extends where the body is a body corporate, to an officer of the body corporate whether that body corporate is in the course of being wound up or has been dissolved. 49, Procedure on receipt of books
+
+(1) Where the books required are produced, the person who receives the books may
+
+(a) take possession, make copies or take extracts from them, . (b) require the other person or any person who was party to the compilation of : the books to provide an explanatory statement of any of the books, or HII ~ 1485 [Issue 2]
+
+ee
+
+(c) retain possession of the books for the duration the Bank considers necessary to enable inspection, or copies or extracts from the books to be made, , or taken on behalf of the Bank.
+
+(2) The person who receives the books shall permit the person who produced them, access to the books on being given reasonable notice and specification of the books.
+
+(3) Where the books are not produced, the Bank or the authorised person may request the person who should have produced the books
+
+(4) to state where the books may be found,
+
+(4) to identify the person who last had custody of the books and where the person may be found, or .
+
+(c) _ to state the reasons why the books cannot be produced.
+
+## Section 50
+
+Information from books to be published with prior consent
+
+(1) The person who has custody or control of books shall give consent in writing prior to the publication or disclosure of information obtained from the books.
+
+(2) information obtained from books that have been produced shall not be published or disclosed without the previous consent in writing of the person who has custody or control of the books except to
+
+(a) the Bank, its officers and employees, and
+
+(6) as required by law.
+
+(3) A person who publishes any information in contravention of this section commits : an offence and is liable on summary conviction to a fine of not more than two thousand penalty units or a term of imprisonment of not more than four years or both.
+
+## Section 51
+
+Order by Magistrate to enter and search premises
+
+(1) Where a District Magistrate on being informed in writing on oath and after enquiry, on reasonable grounds suspects that
+
+(a) prohibited conduct has taken place, is taking place, or is likely to take place on or in premises within the jurisdiction of the District Court,
+
+(6) aperson who has control of the subject of an investigation into a prohibited conduct is on the premises, and
+
+(c) a person who has control or possession of books which have been directed to be produced but have not been produced in compliance with the direc- . tion, is on the premises, 2 =: the Magistrate may issue a warrant authorising the Bank or a person named in the warrant : to enter and search the premises. :
+
+(2) The authorised person may
+
+(a) _ enter premises or a place suspected to be used for credit bureau operations without a licence at a reasonable time to investigate activities there and make a report,
+
+(b) search the premises, } ae [Issue 2] Ill — 1486
+
+a
+
+(c) search any person on the premises if there are reasonable grounds to believe that the person has possession of an article or document which is ; relevant to the investigation,
+
+(d) examine any article or document on the premises which is relevant to the investigation,
+
+(e) request information about any article or document from : () the owner, ,
+
+(ii) person in control of the premises,
+
+(iii) any person who has control of the article or document, or | 5} (iv) any other person who may have the information sought, and | take extracts from, make copies of books or documents on the premises relevant to the investigation, and
+
+(f) use a computer system on the premises, or require the assistance of any person on the premises to use that computer system to
+
+(i) search data contained in the computer,
+
+(ii) reproduce a record from the data,
+
+(iii) seize output from the computer for examination and copying, and
+
+(iv) attach and, if necessary, remove from the premises for examination and safekeeping, a thing that is relevant to the investigation.
+
+(3) The powers conferred by the Criminal Code, 1960 (Act 29) or any law in force relating to search of premises shall apply.
+
+(4) The person authorised to conduct the search shall produce the authorisation at the request of the person in control of the premises.
+
+(5) In this section “premises” includes any structure, building, place, aircraft, vehicle or vessel.
+
+## Section 52
+
+Power of Court to make certain orders
+
+(1) Where a person alleges infringement of the person’s rights under this Act, the person may make an application to the High Court.
+
+(2) Where on an application by a person who alleges infringement, the Court discovers that
+
+(a) a person has committed an offence under this Act,
+
+\- (b) has contravened a condition for the issue of a licence,
+
+(c) _ has breached a code of conduct issued by the Bank of Ghana or issued with the Bank’s permission, or
+
+(d) is about to do an act which would constitute an offence the Court may, in addition to other orders, make one or more of the following orders:
+
+(i) an order to restrain the person from carrying on a credit bureau busi-
+
+\- ness, acting as a data provider or a credit information recipient, or , purporting to carry out credit bureau business; or CIDE Ill — 1487 [Issue 2]
+
+ee Ogee a
+
+(ii) an order to restrain a person from providing, acquiring, disposing of or dealing with any credit information specified in the order; .
+
+(iii) an order to direct a person to do or refrain from doing a specified act; ; * and
+
+(iv) any ancillary order.
+
+(3) A person commits an offence if the person fails to comply with an order under subsection (2) and is liable on summary conviction to a fine of not more than five thousand penalty units or a term of imprisonment of not more than ten years or both. Miscellaneous Matters .
+
+## Section 53
+
+Liquidation of credit bureau Subject to the approval of the Bank a credit bureau may be wound up under the Companies Code, 1963 (Act 179) and the Bodies Corporate Official Liquidation Act, 1963 (Act 180).
+
+## Section 54
+
+Database in event of liquidation, suspension or revocation of a licence
+
+(1) Where
+
+(a) a resolution is made by a credit bureau for voluntary liquidation under the Companies Code, 1963 (Act 179),
+
+(6) a winding-up order is made as regards a credit bureau under the Bodies Corporate (Official Liquidation) Act, 1963 (Act 180), or
+
+(ce) the Bank suspends or revokes the licence of a credit bureau, the credit bureau shall deliver any information contained in its database to the data provider from whom the credit bureau obtained the information subject to a data submission agreement entered into as regards the information.
+
+(2) A credit bureau shall only transfer database containing information to the Bank or the nominated recipient of the Bank.
+
+(3) Where
+
+(a) acredit bureau, {6) __ its shareholders,
+
+(ec) directors, or
+
+(ad) officers, disclose information in breach of subsection (2), the credit bureau is liable to pay a pecu- : niary penalty of two thousand penalty units and in the case of a continuing breach to an additional fine of not more than five hundred penalty units for each day on which the breach continues.
+
+## Section 55
+
+Compliance report
+
+(1) A credit bureau shall submit to the Bank an annual compliance report in addition to its audited financial statements.
+
+(2) An annual compliance report shall be certified by an independent auditor. 5 en [Issue 2] IH ~ 1488
+
+ne
+
+(3) An annual compliance report shall address the following matters: . (a) accuracy of data received and reported by the credit bureau; — (b) incidence of complaints and complaint resolution; and |
+
+(c) adequacy of procedures employed by the credit bureau to ensure
+
+(i) that data received and reported by it are accurate,
+
+(ii) that confidentiality of data is maintained, and |
+
+(iii) that complaints are resolved promptly and satisfactorily.
+
+(4) An annual compliance report shall deal with any other related matters prescribed — by regulations.
+
+## Section 56
+
+Technical audit The Bank may order the technical audit of the facilities, equipment, resources and accounts of a credit bureau to be conducted at reasonable intervals.
+
+## Section 57
+
+Accounts and audit
+
+(1) A credit bureau shall keep books of account and proper records in relation to | them in the form approved by the Bank.
+
+(2) A credit bureau shall submit a copy of its audited financial statements to the Bank within three months after the end of the financial year.
+
+## Section 58
+
+Bank of Ghana to submit annual report The Bank shal! submit to the Minister an annual report covering the activities and operations of licensed credit bureaus within six months after the end of the financial year. 59, Sale or amalgamation of business A credit bureau shall submit to the Bank for prior approval, any proposal for arrangement or agreement by which the credit bureau is to change contro! of business, sale or amalgamation of its business. :
+
+## Section 60
+
+Regulations The Minister may on the advice of the Bank by legislative instrument make Regulations to i . (a) prescribe the fees to be paid by a credit bureau for an application for a li- : cence to the Bank of Ghana;
+
+(b) _ provide for standards for the filing, retention and reporting of credit infor- | mation by a credit bureau; |
+
+(c) provide for the licensing of credit bureau;
+
+(d) provide operational guidelines for credit bureau;
+
+(e) prescribe guidelines for submission of information to credit bureau; 69) prescribe the manner of dissemination of credit information by credit bu- } reau; A U1 — 1489 [Issue 2]
+
+eee
+
+(g) _ prescribe the reporting requirements of credit bureau;
+
+(4) provide for persons to be designated as data providers under this Act;
+
+(i) provide for administrative and other penalties for breach of this Act; 7) prescribe appropriate control and security measures to be taken by credit bureaus to secure their operations; and
+
+(k) _ provide generally for the effective implementation of this Act.
+
+## Section 61
+
+Interpretation In this Act, unless the context otherwise requires, “Bank” means the Bank of Ghana; ‘ “court” means a court of competent jurisdiction; “computer system” includes an electronic, magnetic, optical, electron-chemical or other data processing device, the physical component and any removable storage medium that is connected to the device or a group of inter-connected or related devices, one or more of which is capable of {a) containing data, or
+
+(6) performing a logical, arithmetic or any other function in relation to data; “contingent liabilities” includes liabilities that are contingent upon the occurrence of an event that affect guarantees and other credit enhancing instruments issued by a person in favour of another person; “credit bureau” means an institution licensed under this Act to carry out credit bureau activities; “credit bureau activities” means the activities specified in section 12; “credit information” means data on credit information subjects in electronic and paper form that is submitted by a data provider to a credit bureau and maintained, processed and reported on by a credit bureau, under this Act; “credit information subject” means a person in relation to whom a data provider submits credit information to a credit bureau and in relation to whom a credit report is issued by a credit bureau; “credit report” means a report issued by a credit bureau which contains a full or partial disclosure of information contained in its database; \ “credit report recipient” means a financial institution which is eligible to receive 7 a credit report under this Act; “credit reporting system” means the collection of credit data by a credit bureau, the storage, management and processing of the data and the dissemination of credit information by a credit bureau under this Act; “data provider” means a financial institution and a public source as defined under this Act and any other person designated as such from time to time by the Minister; } eee [Issue 2] III — 1490
+
+é ACT 726 “financial institution” means a financial institution licensed and regulated by law cen and includes institutions licensed and regulated under — (a) the Banking Act, 2004 (Act 673),
+
+(b) _ the Financial Institutions (Non-banking) Law, 1993 (P.N.D.C.L. 328),
+
+(c) the Insurance Law, 1989 (P.N.D.C.L. 227), and
+
+(e) the Securities Industry Law, 1993 (P.N.D.C.L. 333); “Minister” means the Minister responsible for Finance and Economic Planning; “pecuniary penalty” means a fine imposed by the Bank; * “person” means a natural and artificial person; “prescribed” means prescribed under this Act; “private domain name” means an alphanumeric designation that is registered or | assigned in respect of an electronic address or other resource on the Internet; “public source” means the public agencies and registries specified under section 28 of this Act; “security agencies” means agencies connected with national security.
+
+## Section 62
+
+Application of other legislation
+
+This Act shall be in addition to any other legislation related to confidentiality, privacy, right to information, data protection, electronic crime, economic crime, computer crime and other relevant matters and shall not derogate from the provision of these laws.
+
+## SCHEDULE
+
+L sesccesvessvececscavscetesvscsvseststsvscevsceeseseveee @ CUSCOMED OF o...cccccccecteeseeseeeeseereeeteceaecene (Limited) ‘ hereby authorise 0.0... ssseseeesserseeeseese (Limited) to
+
+(a) submit information on my credit transaction With .......cseseeseeeeeeeeees (Limited) to a credit bureau licensed under this Act, or
+
+(b) obtain credit reports on me from a credit bureau licensed under this Act for the purpose of credit management. i
+
+we
+
+If — 1491 fissue 2]
+
+x,
